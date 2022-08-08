@@ -136,6 +136,10 @@ html, body, .container {
     font-family: inherit;
 }
 
+.product-card_button:hover {
+    background-color: hsl(156, 42%, 18%);
+}
+
 .product-card_button_text {
     color: hsl(0, 0%, 100%);
     font-weight: 700;
